@@ -24,7 +24,7 @@ const COORD LOWER_LEFT_CORNER = {0, 23};
 const char hello[] =
 {
     "Hello from eServer!\n\
-     \rType any message to get echo, type ""disconnect"" to exit\n"
+     \rType any message to get echo, type ""-close"" to exit\n"
 };
 
 const int MAX_CONNECTIONS = 0xFF;
